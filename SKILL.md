@@ -1,3 +1,8 @@
+---
+name: Project Keeper
+description: A new way for your agent to remember your project both a week and a year from now
+---
+
 ## INIT
 For this skill to work, create a "projects/" directory in your workspace. Inside will be a directory dedicated to each project you and your user mention and planning to/are work on. How these project files will be structured is explained in the following section 
 
